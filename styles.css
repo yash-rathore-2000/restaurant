@@ -1,0 +1,29 @@
+body{
+  background-image: url("Resturent background images/About\ Us\ restaurant.webp");
+  background-size: cover;
+}
+.restaurant{
+  text-decoration-line: underline;
+}
+.p{
+  text-align: center;
+  margin: 15px 15px 15px 500px;
+  width: 350px;
+  line-height: 20px;
+  backdrop-filter: blur(10px);
+  background-color: rgb(255,255,255,0.2);
+  border-radius: 5px;
+}
+.a{
+  margin-left: 460px;
+  text-decoration-line: underline;
+  backdrop-filter: blur(10px);
+  background-color: rgb(255,255,255,0.2);
+  display: inline;
+}
+.w{
+  margin-left: 150px;
+  backdrop-filter: blur(10px);
+  background-color: rgb(255,255,255,0.2);
+  display: inline;
+}
